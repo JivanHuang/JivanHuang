@@ -2,6 +2,6 @@
 
 ### Hello World 👋
 
-- 📙 Focusing on Swift & iOS
+- 📙 Focusing on Swift & Objective-C
 - 🔨 Creator of applications and frameworks
 - 🇨🇳 Living in Hefei China
