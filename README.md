@@ -3,5 +3,4 @@
 ### Hello World !
 - 👨🏻‍💻 Focusing on Swift & Objective-C
 - 📱 Creator of Applications and Frameworks
-- 🇨🇳 Living in Hefei China
 - ❤️ Like Reading and Music
