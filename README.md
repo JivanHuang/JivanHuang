@@ -5,3 +5,4 @@
 - 👨🏻‍💻 Focusing on Swift & Objective-C
 - 📱 Creator of applications and frameworks
 - 🇨🇳 Living in Hefei China
+- 💗 Like reading and music
