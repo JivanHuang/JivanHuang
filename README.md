@@ -3,4 +3,4 @@
 ### Hey, I'm a iOS developer
 - 👨🏻‍💻 Focusing on Swift & Objective-C
 - 📱 Creator of Applications and Frameworks
-- ❤️ Like Programming,Reading and Music
+- ❤️ Like Programming, Reading and Music
